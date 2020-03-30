@@ -1,1 +1,1 @@
-# Automtion_Ideas_Python
+# Automation_Ideas_Python
